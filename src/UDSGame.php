@@ -1,5 +1,7 @@
 <?php
 
+namespace UDSGame;
+
 class UDSGame {
   
   /**
