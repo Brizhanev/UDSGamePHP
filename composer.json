@@ -1,0 +1,24 @@
+{
+    "name": "brizhanev/uds-game-php",
+    "type": "library",
+    "keywords": [
+        "uds",
+        "php",
+        "uds game"
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "Oleg Brizhanev",
+            "email": "mr.brizhanev@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
