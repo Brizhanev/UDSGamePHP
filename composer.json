@@ -1,6 +1,7 @@
 {
     "name": "brizhanev/uds-game-php",
     "type": "library",
+    "license": "MIT",
     "keywords": [
         "uds",
         "php",
