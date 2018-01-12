@@ -8,8 +8,6 @@
         "php",
         "uds game"
     ],
-    "prefer-stable": true,
-    "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "^6.5"
     },
