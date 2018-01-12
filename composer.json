@@ -1,5 +1,6 @@
 {
     "name": "brizhanev/uds-game-php",
+    "version": "",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -7,6 +8,8 @@
         "php",
         "uds game"
     ],
+    "prefer-stable": true,
+    "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "^6.5"
     },
